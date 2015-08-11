@@ -156,7 +156,7 @@ The syntax extension is based on a subset of the ICU MessageFormat syntax that c
 gender selections.  Please refer to the links in the “Further Reading” section at the bottom of this
 section.
 
-You may find it helpful to play with our [Plnkr Example](http://plnkr.co/edit/QBVRQ70dvKZDWmHW9RyR?p=preview)
+You may find it helpful to play with our [Plnkr Example](http://plnkr.co/edit/SNpZob?p=preview)
 as you read the examples below.
 
 ### Plural Syntax
